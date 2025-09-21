@@ -1,0 +1,16 @@
+Codename: skipjack
+Date: Sun, 21 Sep 2025 14:32:48 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ 7dc3ee44505ede997293900bf50854a6 512 main/binary-amd64/Packages
+ 17aa5b07062fd47ad01bc8db07fee0e3 373 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ 1664c9595468264782912c44ab05036dbbc55cc9 512 main/binary-amd64/Packages
+ 370bfd8c319f17e0411dd6d7719f05a82a2aabf4 373 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ c52b4b0421186b8b051ae05e324d247301c5a4145c9bdf1ac376ae19d73d683f 512 main/binary-amd64/Packages
+ dab1d2d206bc7a068f46edd7fd81287fe34642da821df8b1bfa495a6d8c5f143 373 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release

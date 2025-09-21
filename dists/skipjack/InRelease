@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: skipjack
+Date: Sun, 21 Sep 2025 14:32:48 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ 7dc3ee44505ede997293900bf50854a6 512 main/binary-amd64/Packages
+ 17aa5b07062fd47ad01bc8db07fee0e3 373 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ 1664c9595468264782912c44ab05036dbbc55cc9 512 main/binary-amd64/Packages
+ 370bfd8c319f17e0411dd6d7719f05a82a2aabf4 373 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ c52b4b0421186b8b051ae05e324d247301c5a4145c9bdf1ac376ae19d73d683f 512 main/binary-amd64/Packages
+ dab1d2d206bc7a068f46edd7fd81287fe34642da821df8b1bfa495a6d8c5f143 373 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEj5KG4gaAbmRgSz01G8xo9UA9WxwFAmjQDKMACgkQG8xo9UA9
+Wxxb2hAAsk/MzmkqoxWl0hEjF1S3d8znWuQN52s+CevoIOZrM95AI/BJ5GXYwAtn
+5fY4dLwLDM54ggFykWUXz0Ba9oKk5p2cMGkMAtUaLnOpZ8h6wBXQijc2JfwUpafL
+FpxZOHLpr6bFWDOGKiMGaUGR/nVZ0HjuIc5i5x14dCyfwN1bcTQj1V3putwhdmjB
+t4DvZ8MrgCkJD13fpSGbXNKEMDb55Fjc9I2np8PcMTfbZXpM9LcE4cM2tQ2jVxgP
+MInfTaueH0GGA4WM4mLNUJSaD5kzZFp10h5DAsEr85QgoIKX+XXmTOZFY5LAhsQM
+6JBH/ZEc5BLs2ko5Ao4j6oFui8ZA7pZx54HAcpet0uatzSwFEfyg4246mCx5cyeY
+zgkthWNh/e0DC7oqVP9/FA+gCbD33r2LuPSBH+CR8w4AVxPbrvT0rwSoc8Yv5ISQ
+rAOcs72q1yQV6cqbJZwCtAqRC7GuAWQ4MBARw7LZdHeKwfFf0mf6ziN7uC3WKG6D
+eZE7bwERTOx69W264QmM2NnZNVcoTZiAs51LwJ9vPwl5Z8A/d5UP/EFaadze5N6/
+2N28mKuu4qou9enTw2cJIMo3R+tf9noJJbzA5JnVskudWw5riNIcWmbBoLjZVTOI
+ev/G9FQOdCICcyNjTm1DaIbf5XKM6RzTEOYtiZp88grtsquYwBg=
+=NmjG
+-----END PGP SIGNATURE-----
