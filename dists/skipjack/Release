@@ -3,28 +3,28 @@ Label: TuneOS
 Suite: stable
 Codename: skipjack
 Version: 1.0
-Date: Tue, 23 Sep 2025 23:53:28 UTC
+Date: Mon, 06 Oct 2025 18:37:54 UTC
 Architectures: amd64
 Components: main
-Description: TuneOS 1.0 (Skipjack)
+Description: TuneOS APT repository
 MD5Sum:
- b611131d3853a8d7ccbab814600c9b83 1189 main/binary-amd64/Packages
- 3a22c81754f16b8521134b2507875593 658 main/binary-amd64/Packages.gz
- 6ff803598e6f1acd228094c66655d0fd 129 main/binary-amd64/Release
+ 4105571e9047862ac29fc1f2680b5633 1233 main/binary-amd64/Packages
+ 6c6984ba04181ea3dad0a7e231012f6d 683 main/binary-amd64/Packages.gz
+ 3687dd7d77b0f63051154c4a69ed0a7c 129 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
- 53fa54f12c65d9bc451d25ddb3c56769 130 main/source/Release
+ 053aa675f6dc02e4842596a5d6b8bb94 130 main/source/Release
 SHA1:
- be862218343de2cc7c4739b0245e2a7adbc06530 1189 main/binary-amd64/Packages
- 68a3afded15b364e6c3b22417387fdf30bda9ab3 658 main/binary-amd64/Packages.gz
- c37eaa364ad46f5826db3a7f85a8ca85b1119d5e 129 main/binary-amd64/Release
+ 5833eb853ff791939f9a6bd3e2b3309e79030a01 1233 main/binary-amd64/Packages
+ bd156499ce24b4fbabc1566f9c16f9dceade15e7 683 main/binary-amd64/Packages.gz
+ adeb7f2543b888623c548c6b7169bd967bf7e143 129 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
- 8e69a920be21bcf62ec23288c42f3104c24d1685 130 main/source/Release
+ e755fb8dc1499f07dbf23c794db65deb045cdea3 130 main/source/Release
 SHA256:
- 37a798e21804c13bc2db07a9b93528a177de10673c99d6f34a544fafd9515c02 1189 main/binary-amd64/Packages
- 2a2fa4513b34ef23d30c69cd8d6b72d1dc3048caf6962a54d1cc8be8c0280178 658 main/binary-amd64/Packages.gz
- 559d1314420dc63870328440affd6babce17f4fcd55c07e18d1363def14ed3ab 129 main/binary-amd64/Release
+ e4f893f50d1be0d8c03f3be2306d18873a245cecbfefce2afb525639382fda0a 1233 main/binary-amd64/Packages
+ 28443cc7fb7344f6b27545751bec94964712bfe74ac1b78dfc3d1c4c3602eb40 683 main/binary-amd64/Packages.gz
+ 624df9c7149e2a865c7f083f87ef6010c6fa5430c979de2d59bd92637ef6d7c5 129 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
- 46f28c24583e55cca69deeeec13498db2518efd927f493165830d3a72f715e08 130 main/source/Release
+ ad00f8471cc832eb1a78d2945305442c1c36a286a96058f093c26dfedc33211f 130 main/source/Release

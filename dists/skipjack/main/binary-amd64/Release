@@ -4,4 +4,4 @@ Component: main
 Origin: TuneOS
 Label: TuneOS
 Architecture: amd64
-Description: TuneOS 1.0 (Skipjack)
+Description: TuneOS APT repository

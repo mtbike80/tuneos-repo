@@ -1,2 +1,3 @@
-to-sign/
 db/
+conf/
+*.log
