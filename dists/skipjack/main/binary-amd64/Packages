@@ -1,0 +1,32 @@
+Package: audacity
+Version: 3.7.5-1+tuneos1
+Architecture: amd64
+Maintainer: Peter LoFurno <peter.lofurno@gmail.com>
+Depends: libc6, libstdc++6, libgcc-s1, libglib2.0-0, libgtk2.0-0, libx11-6, libasound2, libpulse0, libxcb1, libxext6
+Homepage: https://www.audacityteam.org/
+Priority: optional
+Section: sound
+Filename: pool/main/a/audacity/audacity_3.7.5-1+tuneos1_amd64.deb
+Size: 90055784
+SHA256: 921f6d16c0512976299d49d61ed91379a7265b46e614d93f55ab28f4961f82bd
+SHA1: 364a74e34e75b803b72bbee7f409161d1b0b38f5
+MD5sum: c15145bda0a53a54844a2e021adcc9c1
+Description: Audacity audio editor (upstream AppImage repackaged for TuneOS)
+ Repackaged upstream Audacity AppImage for TuneOS.
+
+Package: tuneos-deco
+Version: 1.0
+Architecture: all
+Maintainer: Peter LoFurno <peter.lofurno@gmail.com>
+Depends: kwin
+Priority: optional
+Section: kde
+Filename: pool/main/t/tuneos-deco/tuneos-deco_1.0_all.deb
+Size: 6540
+SHA256: 25947825aecfffea7653dc32cffc1402861201b4056c13577c5a8353535aa092
+SHA1: 68dc91c09d2ee12a95f1b3a29176f30a45e91582
+MD5sum: 55f79159db442cda3fd7eceb4ab645cb
+Description: TuneOS default window decoration
+  This package provides default TuneOS window decoration,
+  installed system-wide in /usr/share/kwin/decorations/org.kde.tuneos.
+

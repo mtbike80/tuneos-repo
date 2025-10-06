@@ -1,0 +1,30 @@
+Origin: TuneOS
+Label: TuneOS
+Suite: stable
+Codename: skipjack
+Version: 1.0
+Date: Mon, 06 Oct 2025 18:37:54 UTC
+Architectures: amd64
+Components: main
+Description: TuneOS APT repository
+MD5Sum:
+ 4105571e9047862ac29fc1f2680b5633 1233 main/binary-amd64/Packages
+ 6c6984ba04181ea3dad0a7e231012f6d 683 main/binary-amd64/Packages.gz
+ 3687dd7d77b0f63051154c4a69ed0a7c 129 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 053aa675f6dc02e4842596a5d6b8bb94 130 main/source/Release
+SHA1:
+ 5833eb853ff791939f9a6bd3e2b3309e79030a01 1233 main/binary-amd64/Packages
+ bd156499ce24b4fbabc1566f9c16f9dceade15e7 683 main/binary-amd64/Packages.gz
+ adeb7f2543b888623c548c6b7169bd967bf7e143 129 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ e755fb8dc1499f07dbf23c794db65deb045cdea3 130 main/source/Release
+SHA256:
+ e4f893f50d1be0d8c03f3be2306d18873a245cecbfefce2afb525639382fda0a 1233 main/binary-amd64/Packages
+ 28443cc7fb7344f6b27545751bec94964712bfe74ac1b78dfc3d1c4c3602eb40 683 main/binary-amd64/Packages.gz
+ 624df9c7149e2a865c7f083f87ef6010c6fa5430c979de2d59bd92637ef6d7c5 129 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ ad00f8471cc832eb1a78d2945305442c1c36a286a96058f093c26dfedc33211f 130 main/source/Release
