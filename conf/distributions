@@ -1,8 +1,0 @@
-Origin: TuneOS
-Label: TuneOS
-Codename: skipjack
-Suite: stable
-Version: 1.0
-Architectures: amd64 source
-Components: main
-Description: TuneOS 1.0 (Skipjack)
